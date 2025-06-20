@@ -4,5 +4,3 @@ Autor: Wiktoria Szczepaniak
 Język programowania: Ruby
 Wersja: 3.x
 
-#Uruchomienie
-
