@@ -1,0 +1,2 @@
+# AplikacjaFinansowa
+Projekt: Aplikacja Finansowa
