@@ -1,0 +1,23 @@
+1) Instalacja:
+
+1.1 Windows
+
+  a) pobierz RubyInstaller ze strony rubyinstaller.org (wersje Ruby+Devkit np. 3.2.x)
+  b) uruchom instalator 
+     - zaznacz "Add Ruby executables to your PATH"
+     - kliknij "Install"
+  c) otwórz okno cmd lub PowerShell i wykonaj:
+        gem install bundler
+  
+1.2 Linux
+
+  a) uruchom terminal i wykonaj komendy:
+        sudo apt update
+        sudo apt install ruby-full -y
+        gem install bundler
+
+2) Następnie przejdź do folderu projektu i uruchom :
+        bundle install
+ 
+3) Uruchom program wpisując:
+	ruby main.rb

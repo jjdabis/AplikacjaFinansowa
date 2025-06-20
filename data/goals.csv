@@ -1,0 +1,4 @@
+id;name;target_amount;current_amount;deadline;completed
+1;Prawo jazdy;3500.00;2500.00;2025-01-01;flase
+2;Na wakacje;10000.00;300.20;2025-07-01;flase
+3;Na urodziny siostry;5000.00;6000.00;2025-06-24;true
